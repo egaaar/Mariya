@@ -16,6 +16,7 @@ body{
   color: #616368;
   padding: 0 10px;
   /* background-image: url(..//images/body__img.png); */
+background-color: #f0f9ff;
 }
 :focus, :active {
   outline: none;
